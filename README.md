@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🎓 **Education:** Pursuing B.Tech in B.Tech C.S.E. at SRMU <br> 💻 **Tech Stack:** Passionate about Software Engineering,Data Scienc<br>🔭 **Current Focus:** Building Projects to get experience <br>🌱 **Learning:** Currently diving deep into DSA AND OOPS<br>🤝 **Collaboration:** Open to contributing to open-source projects and hacking at hackathons<br>💬 **Ask me about:** Data Structures & Algorithms, Object-Oriented Programming, or anything tech-related!
+ 🎓 **Education:** Pursuing B.Tech in B.Tech C.S.E. at SRMU <br> 💻 **Tech Stack:** Passionate about Software Engineering,Data Science<br>🔭 **Current Focus:** Building Projects to get experience <br>🌱 **Learning:** Currently diving deep into DSA AND OOPS<br>🤝 **Collaboration:** Open to contributing to open-source projects and hacking at hackathons<br>💬 **Ask me about:** Data Structures & Algorithms, Object-Oriented Programming, or anything tech-related!
 
 
 ## 🌐 Socials:
